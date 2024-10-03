@@ -1,4 +1,4 @@
-Realistic Pistol Draw & Holster Script for ESX by Underground DEVELOPMENT
+Realistic Pistol Draw & Holster Script for Ox Inventory by Underground DEVELOPMENT
 
 Transform the roleplay experience in your FiveM server with our Realistic Pistol Draw & Holster Script, meticulously designed to add a new layer of authenticity to weapon handling. This script provides advanced features that make every interaction with pistols more immersive and true to life, enhancing the overall realism within your server.
 
